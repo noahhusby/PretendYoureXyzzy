@@ -38,13 +38,13 @@ to, for instance, display the number of connected players.
 <link rel="stylesheet" type="text/css" href="index.css" media="screen" />
 </head>
 <body>
-<h1>
+<h1 class="cenn">
   Pretend You're <dfn style="border-bottom: 1px dotted black"
   title="Husby is an Artificial Unintelligence bot. You'll be making more sense than him in this game.">
   Husby</dfn>
 </h1>
-<h3>A Cards Against Humanity clone.</h3>
-<p>
+<h3 class="cenn">A Cards Against Humanity clone.</h3>
+<p class="cenn">
   Your computer's IP address will <strong>always</strong> be logged when you load the game client.
   It is not tied in any way to your username, except possibly if a server error occurs. Gameplay
   results are logged permanently, but without information identifying you.
@@ -53,7 +53,7 @@ to, for instance, display the number of connected players.
   <input type="button" value="Take me to the game!"
     onclick="window.location='game.jsp';" />
 </p>
-<p>
+<p class="cenn">
   Pretend You're Xyzzy is a Cards Against Humanity clone, which is available at
   <a href="http://www.cardsagainsthumanity.com/">cardsagainsthumanity.com</a>, where you can buy it
   or download and print it out yourself. It is distributed under a
