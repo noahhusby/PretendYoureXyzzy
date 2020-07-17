@@ -51,7 +51,7 @@ boolean allowBlankCards = injector.getInstance(Key.get(new TypeLiteral<Boolean>(
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<title>Pretend You're Xyzzy</title>
+<title>Pretend You're Husby</title>
 <script type="text/javascript" src="js/jquery-1.11.3.min.js"></script>
 <script type="text/javascript" src="js/jquery-migrate-1.2.1.js"></script>
 <script type="text/javascript" src="js/jquery.cookie.js"></script>
@@ -85,23 +85,22 @@ boolean allowBlankCards = injector.getInstance(Key.get(new TypeLiteral<Boolean>(
   <h1 class="cenn" tabindex="0">
     Pretend You're Husby </h1>
   <h3 class="cenn">A <a href="http://cardsagainsthumanity.com/">Cards Against Humanity</a> clone.</h3>
-  <div id="nickbox">
-    <label for="nickname">Nickname:</label>
-    <input type="text" id="nickname" value="" maxlength="30" role="textbox"
+  <div class="cenn" id="nickbox">
+    <label class="cenn" for="nickname">Nickname:</label>
+    <input class="cenn" type="text" id="nickname" value="" maxlength="30" role="textbox"
         aria-label="Enter your nickname." data-lpignore="true" />
-    <input type="button" id="nicknameconfirm" value="Set" />
-    <span id="nickbox_error" class="error"></span>
+    <input class="cenn" type="button" id="nicknameconfirm" value="Set" />
+    <span class="cenn" id="nickbox_error" class="error"></span>
   </div>
   <p class="cenn"><a href="privacy.html"><strong>Hey, this is important:</strong> Read the privacy page for
   details about what gameplay information is collected and how it's shared.</a></p>
   <p class="cenn">
-    Pretend You're Xyzzy is a Cards Against Humanity clone, which is available at
+    Pretend You're Husby is a Pretend You're Xyzzy clone which is a Cards Against Humanity clone, which is available at
     <a href="http://www.cardsagainsthumanity.com/">cardsagainsthumanity.com</a>, where you can buy
     it or download and print it out yourself. It is distributed under a
     <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons - Attribution -
     Noncommercial - Share Alike license</a>. This web version is in no way endorsed or sponsored by
-    cardsagainsthumanity.com. You may download the source code to this version from
-    <a href="https://github.com/ajanata/PretendYoureXyzzy">GitHub</a>. For full license
+    cardsagainsthumanity.com. For full license
     information, including information about included libraries, see the
     <a href="license.html">full license information</a>.
   </p>
