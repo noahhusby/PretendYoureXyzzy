@@ -43,13 +43,13 @@ div {text-align: center;}
 </style>
 </head>
 <body>
-<h1 class="cenn">
+<h1>
   Pretend You're <dfn style="border-bottom: 1px dotted black"
   title="Husby is an Artificial Unintelligence bot. You'll be making more sense than him in this game.">
   Husby</dfn>
 </h1>
 <h3>A Cards Against Humanity clone.</h3>
-<p>
+<p class="cenn">
   Your computer's IP address will <strong>always</strong> be logged when you load the game client.
   It is not tied in any way to your username, except possibly if a server error occurs. Gameplay
   results are logged permanently, but without information identifying you.
