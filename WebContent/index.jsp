@@ -43,7 +43,7 @@ div {text-align: center;}
 </style>
 </head>
 <body>
-<h1 style="text-align: center;">
+<h1 class="cenn">
   Pretend You're <dfn style="border-bottom: 1px dotted black"
   title="Husby is an Artificial Unintelligence bot. You'll be making more sense than him in this game.">
   Husby</dfn>
