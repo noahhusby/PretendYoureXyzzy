@@ -81,22 +81,21 @@ boolean allowBlankCards = injector.getInstance(Key.get(new TypeLiteral<Boolean>(
 <jsp:include page="analytics.jsp" />
 </head>
 <body id="gamebody">
-  <h1 tabindex="0">
-    Pretend You're <dfn
-    title="Husby is an Artificial Unintelligence bot. You'll be making more sense than him in this game.">
-    Husby</dfn>
-  </h1>
-  <h3>A <a href="http://cardsagainsthumanity.com/">Cards Against Humanity</a> clone.</h3>
-  <div id="nickbox">
+<div id="welcome">
+  <h1 class="cenn" tabindex="0">
+    Pretend You're Husby </h1>
+  <h3 class="cenn">A <a href="http://cardsagainsthumanity.com/">Cards Against Humanity</a> clone.</h3>
+  <div id="nickbox" class="cenn">
     <label for="nickname">Nickname:</label>
     <input type="text" id="nickname" value="" maxlength="30" role="textbox"
         aria-label="Enter your nickname." data-lpignore="true" />
+    <a href="https://github.com/ajanata/PretendYoureXyzzy/wiki/Identification-Codes">(Help)</a>
     <input type="button" id="nicknameconfirm" value="Set" />
     <span id="nickbox_error" class="error"></span>
   </div>
-  <p><a href="privacy.html"><strong>Hey, this is important:</strong> Read the privacy page for
+  <p class="cenn"><a href="privacy.html"><strong>Hey, this is important:</strong> Read the privacy page for
   details about what gameplay information is collected and how it's shared.</a></p>
-  <p>
+  <p class="cenn">
     Pretend You're Xyzzy is a Cards Against Humanity clone, which is available at
     <a href="http://www.cardsagainsthumanity.com/">cardsagainsthumanity.com</a>, where you can buy
     it or download and print it out yourself. It is distributed under a
