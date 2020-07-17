@@ -76,14 +76,13 @@ boolean allowBlankCards = injector.getInstance(Key.get(new TypeLiteral<Boolean>(
 <script type="text/javascript" src="js/cah.ajax.builder.js"></script>
 <script type="text/javascript" src="js/cah.ajax.handlers.js"></script>
 <script type="text/javascript" src="js/cah.app.js"></script>
-<link rel="stylesheet" type="text/css" href="cah.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="index.css" media="screen" />
 <link rel="stylesheet" type="text/css" href="jquery-ui.min.css" media="screen" />
 <jsp:include page="analytics.jsp" />
 </head>
 <body id="gamebody">
 
 <div id="welcome">
-  <div id="tweetbox">
     <h3>Recent tweets (mainly server status updates)</h3>
     <a class="twitter-timeline" data-height="500" data-dnt="true" data-theme="light"
     href="https://twitter.com/_PYX_?ref_src=twsrc%5Etfw">Tweets by _PYX_</a>
@@ -91,17 +90,14 @@ boolean allowBlankCards = injector.getInstance(Key.get(new TypeLiteral<Boolean>(
   </div>
   <h1 tabindex="0">
     Pretend You're <dfn
-    title="Xyzzy is an Artificial Unintelligence bot. You'll be making more sense than him in this game.">
-    Xyzzy</dfn>
+    title="Husby is an Artificial Unintelligence bot. You'll be making more sense than him in this game.">
+    Husby</dfn>
   </h1>
   <h3>A <a href="http://cardsagainsthumanity.com/">Cards Against Humanity</a> clone.</h3>
   <div id="nickbox">
     <label for="nickname">Nickname:</label>
     <input type="text" id="nickname" value="" maxlength="30" role="textbox"
         aria-label="Enter your nickname." data-lpignore="true" />
-    <label for="idcode">
-    <dfn title="Only available via HTTPS. Provide a secret identification code to positively identify yourself in the chat.">
-    Optional identification code:</dfn></label>
     <input type="button" id="nicknameconfirm" value="Set" />
     <span id="nickbox_error" class="error"></span>
   </div>
