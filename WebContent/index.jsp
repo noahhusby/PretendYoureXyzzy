@@ -51,15 +51,10 @@ to, for instance, display the number of connected players.
   <input type="button" value="Take me to the game!"
     onclick="window.location='game.jsp';" />
 </p>
-<p class="cenn">
-  Pretend You're Xyzzy is a Cards Against Humanity clone, which is available at
-  <a href="http://www.cardsagainsthumanity.com/">cardsagainsthumanity.com</a>, where you can buy it
-  or download and print it out yourself. It is distributed under a
-  <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons - Attribution -
-  Noncommercial - Share Alike license</a>. This web version is in no way endorsed or sponsored by
-  cardsagainsthumanity.com. For full license
-  information, including information about included libraries, see the
-  <a href="license.html">full license information</a>.
-</p>
-</body>
+  <p class="cenn">
+    Pretend You're Husby is a Pretend You're Xyzzy clone which is a Cards Against Humanity clone, which is available at
+    <a href="http://www.cardsagainsthumanity.com/">cardsagainsthumanity.com</a>, where you can buy
+    it or download and print it out yourself. For full license information, including information about included libraries, see the
+    <a href="license.html">full license information</a>.
+  </p></body>
 </html>
