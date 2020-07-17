@@ -39,7 +39,7 @@ to, for instance, display the number of connected players.
 </head>
 <body>
 <h1 class="cenn">
-  Pretend You're Husby
+  Cards Against Husby
 </h1>
 <h3 class="cenn">A <a href="http://cardsagainsthumanity.com/">Cards Against Humanity</a> clone.</h3>
   <p class="cenn">
