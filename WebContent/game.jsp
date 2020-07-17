@@ -83,7 +83,7 @@ boolean allowBlankCards = injector.getInstance(Key.get(new TypeLiteral<Boolean>(
 <body id="gamebody">
 <div id="welcome">
   <h1 class="cenn" tabindex="0">
-    Pretend You're Husby </h1>
+    Cards Against Husby </h1>
   <h3 class="cenn">A <a href="http://cardsagainsthumanity.com/">Cards Against Humanity</a> clone.</h3>
   <div class="cennn" id="nickbox">
     <label class="cenn" for="nickname">Nickname:</label>
