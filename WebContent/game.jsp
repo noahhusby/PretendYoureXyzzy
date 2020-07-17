@@ -51,7 +51,7 @@ boolean allowBlankCards = injector.getInstance(Key.get(new TypeLiteral<Boolean>(
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<title>Pretend You're Husby</title>
+<title>Cards Against Husby</title>
 <script type="text/javascript" src="js/jquery-1.11.3.min.js"></script>
 <script type="text/javascript" src="js/jquery-migrate-1.2.1.js"></script>
 <script type="text/javascript" src="js/jquery.cookie.js"></script>
@@ -85,9 +85,9 @@ boolean allowBlankCards = injector.getInstance(Key.get(new TypeLiteral<Boolean>(
   <h1 class="cenn" tabindex="0">
     Pretend You're Husby </h1>
   <h3 class="cenn">A <a href="http://cardsagainsthumanity.com/">Cards Against Humanity</a> clone.</h3>
-  <div class="cenn" id="nickbox">
+  <div class="cennn" id="nickbox">
     <label class="cenn" for="nickname">Nickname:</label>
-    <input class="cenn" type="text" id="nickname" value="" maxlength="30" role="textbox"
+    <input type="text" id="nickname" value="" maxlength="30" role="textbox"
         aria-label="Enter your nickname." data-lpignore="true" />
     <input class="cenn" type="button" id="nicknameconfirm" value="Set" />
     <span class="cenn" id="nickbox_error" class="error"></span>
@@ -95,7 +95,7 @@ boolean allowBlankCards = injector.getInstance(Key.get(new TypeLiteral<Boolean>(
   <p class="cenn"><a href="privacy.html"><strong>Hey, this is important:</strong> Read the privacy page for
   details about what gameplay information is collected and how it's shared.</a></p>
   <p class="cenn">
-    Pretend You're Husby is a Pretend You're Xyzzy clone which is a Cards Against Humanity clone, which is available at
+    Cards Against Husby is a Pretend You're Xyzzy clone which is a Cards Against Humanity clone, which is available at
     <a href="http://www.cardsagainsthumanity.com/">cardsagainsthumanity.com</a>, where you can buy
     it or download and print it out yourself. For full license information, including information about included libraries, see the
     <a href="license.html">full license information</a>.
