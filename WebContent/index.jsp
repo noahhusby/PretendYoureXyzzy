@@ -33,15 +33,15 @@ to, for instance, display the number of connected players.
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<title>Pretend You're Xyzzy</title>
+<title>Pretend You're Husby</title>
 <jsp:include page="analytics.jsp" />
 <link rel="stylesheet" type="text/css" href="cah.css" media="screen" />
 </head>
 <body>
 <h1>
   Pretend You're <dfn style="border-bottom: 1px dotted black"
-  title="Xyzzy is an Artificial Unintelligence bot. You'll be making more sense than him in this game.">
-  Xyzzy</dfn>
+  title="Husby is an Artificial Unintelligence bot. You'll be making more sense than him in this game.">
+  Husby</dfn>
 </h1>
 <h3>A Cards Against Humanity clone.</h3>
 <p>
