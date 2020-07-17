@@ -39,9 +39,7 @@ to, for instance, display the number of connected players.
 </head>
 <body>
 <h1 class="cenn">
-  Pretend You're <dfn style="border-bottom: 1px dotted black"
-  title="Husby is an Artificial Unintelligence bot. You'll be making more sense than him in this game.">
-  Husby</dfn>
+  Pretend You're Husby
 </h1>
 <h3 class="cenn">A Cards Against Humanity clone.</h3>
 <p class="cenn">
@@ -59,8 +57,7 @@ to, for instance, display the number of connected players.
   or download and print it out yourself. It is distributed under a
   <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons - Attribution -
   Noncommercial - Share Alike license</a>. This web version is in no way endorsed or sponsored by
-  cardsagainsthumanity.com. You may download the source code to this version from
-  <a href="https://github.com/ajanata/PretendYoureXyzzy">GitHub</a>. For full license
+  cardsagainsthumanity.com. For full license
   information, including information about included libraries, see the
   <a href="license.html">full license information</a>.
 </p>
