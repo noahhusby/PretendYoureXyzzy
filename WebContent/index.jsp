@@ -36,6 +36,11 @@ to, for instance, display the number of connected players.
 <title>Pretend You're Husby</title>
 <jsp:include page="analytics.jsp" />
 <link rel="stylesheet" type="text/css" href="cah.css" media="screen" />
+<style>
+h1 {text-align: center;}
+p {text-align: center;}
+div {text-align: center;}
+</style>
 </head>
 <body>
 <h1>
