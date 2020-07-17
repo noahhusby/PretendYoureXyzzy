@@ -33,7 +33,7 @@ to, for instance, display the number of connected players.
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<title>Pretend You're Husby</title>
+<title>Cards Against Husby</title>
 <jsp:include page="analytics.jsp" />
 <link rel="stylesheet" type="text/css" href="index.css" media="screen" />
 </head>
@@ -41,8 +41,8 @@ to, for instance, display the number of connected players.
 <h1 class="cenn">
   Pretend You're Husby
 </h1>
-<h3 class="cenn">A Cards Against Humanity clone.</h3>
-<p class="cenn">
+<h3 class="cenn">A <a href="http://cardsagainsthumanity.com/">Cards Against Humanity</a> clone.</h3>
+  <p class="cenn">
   Your computer's IP address will <strong>always</strong> be logged when you load the game client.
   It is not tied in any way to your username, except possibly if a server error occurs. Gameplay
   results are logged permanently, but without information identifying you.
@@ -52,7 +52,7 @@ to, for instance, display the number of connected players.
     onclick="window.location='game.jsp';" />
 </p>
   <p class="cenn">
-    Pretend You're Husby is a Pretend You're Xyzzy clone which is a Cards Against Humanity clone, which is available at
+    Cards Against Husby is a Pretend You're Xyzzy clone which is a Cards Against Humanity clone, which is available at
     <a href="http://www.cardsagainsthumanity.com/">cardsagainsthumanity.com</a>, where you can buy
     it or download and print it out yourself. For full license information, including information about included libraries, see the
     <a href="license.html">full license information</a>.
