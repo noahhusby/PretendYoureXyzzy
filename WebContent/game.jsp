@@ -85,11 +85,10 @@ boolean allowBlankCards = injector.getInstance(Key.get(new TypeLiteral<Boolean>(
   <h1 class="cenn" tabindex="0">
     Pretend You're Husby </h1>
   <h3 class="cenn">A <a href="http://cardsagainsthumanity.com/">Cards Against Humanity</a> clone.</h3>
-  <div id="nickbox" class="cenn">
+  <div id="nickbox">
     <label for="nickname">Nickname:</label>
     <input type="text" id="nickname" value="" maxlength="30" role="textbox"
         aria-label="Enter your nickname." data-lpignore="true" />
-    <a href="https://github.com/ajanata/PretendYoureXyzzy/wiki/Identification-Codes">(Help)</a>
     <input type="button" id="nicknameconfirm" value="Set" />
     <span id="nickbox_error" class="error"></span>
   </div>
