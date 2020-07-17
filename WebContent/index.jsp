@@ -35,12 +35,7 @@ to, for instance, display the number of connected players.
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <title>Pretend You're Husby</title>
 <jsp:include page="analytics.jsp" />
-<link rel="stylesheet" type="text/css" href="cah.css" media="screen" />
-<style>
-h1 {text-align: center;}
-p {text-align: center;}
-div {text-align: center;}
-</style>
+<link rel="stylesheet" type="text/css" href="index.css" media="screen" />
 </head>
 <body>
 <h1>
@@ -49,7 +44,7 @@ div {text-align: center;}
   Husby</dfn>
 </h1>
 <h3>A Cards Against Humanity clone.</h3>
-<p class="cenn">
+<p>
   Your computer's IP address will <strong>always</strong> be logged when you load the game client.
   It is not tied in any way to your username, except possibly if a server error occurs. Gameplay
   results are logged permanently, but without information identifying you.
@@ -58,7 +53,7 @@ div {text-align: center;}
   <input type="button" value="Take me to the game!"
     onclick="window.location='game.jsp';" />
 </p>
-<p class="cenn">
+<p>
   Pretend You're Xyzzy is a Cards Against Humanity clone, which is available at
   <a href="http://www.cardsagainsthumanity.com/">cardsagainsthumanity.com</a>, where you can buy it
   or download and print it out yourself. It is distributed under a
